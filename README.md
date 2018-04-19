@@ -1,0 +1,2 @@
+# Rifumo
+Currency Trading Utilities
